@@ -1,4 +1,4 @@
-# ラボ02：Microsof  Defenderを探索する
+# ラボ1-2：Microsof  Defenderを探索する
 
 #### 推定時間: 10 分
 
