@@ -40,7 +40,7 @@
 
 ![](./media/lab2-1.png)
 
-![](C:\Users\z2115023\Documents\GitHub\ab-900-lab\LabManual\media\lab2-2.png)
+![](./media/lab2-2.png)
 
 
 
