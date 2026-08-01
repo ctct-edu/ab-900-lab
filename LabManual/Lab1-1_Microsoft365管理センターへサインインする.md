@@ -29,11 +29,11 @@
 
 4. [My Account]のページにサインインされます。画面左にある[Settings & Privacy(設定およびプライバシー)]をクリックします。
 
+   ![](./media/lab1-0.png)
+
 5. [Settings & Privacy(設定およびプライバシー)]の画面にある[Display language(表示言語)]をクリックし、さらに[Change display language(表示言語の変更)]をクリックします。
 
    ![](./media/lab1-1.png)
-
-   
 
 6. [Languages(言語)]の一覧から[Japanese(日本語)]を選択し[Select(選択)]をクリックします。
 
